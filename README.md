@@ -5,7 +5,7 @@ teachers, and administrators. Teachers can create and upload quizzes, students
 can take quizzes, and administrators can manage users and questions.
 
 This repository contains the Angular frontend. The backend source code is
-available in the [MERN-stack Quiz repository](https://github.com/Ayushkumarsinghyogesh/Mern-stack-Quiz).
+available in the (https://github.com/Ayushkumarsinghyogesh/AI-mern.git).
 
 ## Features
 
@@ -46,7 +46,7 @@ npm install --global @angular/cli@10
 Clone the frontend repository and install its dependencies:
 
 ```bash
-git clone <frontend-repository-url>
+git clone https://github.com/Ayushkumarsinghyogesh/AI-mern.git
 cd SecureQuiz-master/quiz
 npm install
 ```
